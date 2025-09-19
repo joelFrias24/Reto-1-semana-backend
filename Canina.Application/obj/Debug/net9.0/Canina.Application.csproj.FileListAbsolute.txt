@@ -1,0 +1,15 @@
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\bin\Debug\net9.0\Canina.Application.deps.json
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\bin\Debug\net9.0\Canina.Application.dll
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\bin\Debug\net9.0\Canina.Application.pdb
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\bin\Debug\net9.0\Canina.Domain.dll
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\bin\Debug\net9.0\Canina.Domain.pdb
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.csproj.AssemblyReference.cache
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.AssemblyInfoInputs.cache
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.AssemblyInfo.cs
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.csproj.CoreCompileInputs.cache
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.A.08167CF6.Up2Date
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.dll
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\refint\Canina.Application.dll
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\Canina.Application.pdb
+C:\Users\IMPORTSOLUTION\Desktop\UNIVERSIDAD\Proyectos-Personales\AtencionCaninaWebApp\Canina-Server\Canina.Application\obj\Debug\net9.0\ref\Canina.Application.dll
